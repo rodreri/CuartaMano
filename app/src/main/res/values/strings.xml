@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CuartaMano</string>
+
+    <!--Hints-->
+    <string name="hint_marca">Marca</string>
+    <string name="hint_año">Año</string>
+    <string name="hint_modelo">Modelo</string>
+
+    <!--Botones-->
+    <string name="btn_agregar">Agregar</string>
+    <string name="btn_actualizar">Actualizar</string>
+    <string name="btn_borrar">Borrar</string>
+    <string name="btn_editar">Editar</string>
+
+    <!--Content Description-->
+    <string name="desc_img">Imagen Ilustrativa</string>
+
+</resources>
